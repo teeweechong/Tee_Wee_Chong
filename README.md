@@ -5,7 +5,6 @@
 ✉️: tee_wee_chong@hotmail.com 
 &nbsp;&nbsp; 📲 +65-96371352
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/wee-chong-tee-26371948/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
